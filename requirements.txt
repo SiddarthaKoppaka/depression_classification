@@ -6,4 +6,4 @@ transformers
 scikit-learn
 scipy
 torch
-huggingfcae_hub
+huggingface_hub
