@@ -1,0 +1,9 @@
+argparse
+pandas
+numpy
+datasets
+transformers
+scikit-learn
+scipy
+torch
+huggingfcae_hub
